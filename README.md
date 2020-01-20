@@ -1,18 +1,15 @@
-# study_20191128
-2019年11月28日開催の勉強会 Vue.js入門
+# vuejs-study
+勉強会 Vue.js入門
 
-## セットアップ
+- 第1回 2019/11/28
+- 第2回 2020/1/24
 
-### 1. モジュールのインストール
-
+## Project setup
 ```
 npm ci
 ```
 
-## スクリプト
-
 ### Compiles and hot-reloads for development
-
 ```
 npm run serve
 ```
@@ -25,11 +22,6 @@ npm run build
 ### Run your tests
 ```
 npm run test
-```
-
-### Run your unit tests
-```
-npm run test:unit
 ```
 
 ### Lints and fixes files
